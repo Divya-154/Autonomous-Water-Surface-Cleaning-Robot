@@ -47,4 +47,4 @@ GUI.py serves as the main interface and coordinates all modules for monitoring a
 
 ## Project Type
 
-Academic Project
+Hackathon Project
